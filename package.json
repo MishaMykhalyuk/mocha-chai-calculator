@@ -1,0 +1,19 @@
+{
+  "name": "mocha + chai calculator example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  },
+  "author": "Misha Mykhalyuk",
+  "license": "ISC",
+  "dependencies": {
+    "rewire": "^2.3.4"
+  }
+}
